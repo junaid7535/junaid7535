@@ -1,35 +1,30 @@
-## 👨‍💻 About Me
+# 👋 Hi, I'm Junaid
 
-I’m a **Cloud & Infrastructure-focused developer** passionate about building scalable, production-ready systems.
+🚀 Cloud & Infrastructure Engineer in progress  
 
-I work with **AWS, Docker, and Kubernetes** to design and deploy distributed applications, with a strong focus on **automation, CI/CD, and infrastructure as code**.
+---
 
-Currently, I’m deepening my expertise in **cloud-native technologies** and actively exploring **open-source contributions** aligned with infrastructure, DevOps, and backend systems.
+## ☁️ About Me
+- Passionate about Cloud, DevOps & Scalable Systems  
+- Working with AWS, Docker, Kubernetes  
+- Learning Infrastructure as Code (Terraform)  
+- Exploring Open Source  
 
 ---
 
 ## 🔧 Tech Stack
-- AWS  
-- Docker  
-- Kubernetes  
-- CI/CD  
-- Linux  
-- Python  
+- AWS | Docker | Kubernetes  
+- CI/CD | Linux | GitHub Actions  
+- Python | Bash  
 
 ---
 
-## ⚙️ Interests
-- Cloud Architecture  
-- Distributed Systems  
-- DevOps  
-- Open Source  
+## 🚀 Projects
+- Kubernetes Deployment System  
+- CI/CD Pipeline using GitHub Actions  
+- AWS Infrastructure Setup  
 
 ---
 
-## 🎯 Goals
-My goal is to contribute to impactful open-source projects and grow as a **Cloud Infrastructure Engineer**.
-
----
-
-## 🤝 Let's Connect
-Let’s connect if you're working in **cloud, DevOps, or open source 🚀**
+## 📫 Connect
+- LinkedIn: (your link)
