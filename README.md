@@ -27,4 +27,4 @@
 ---
 
 ## 📫 Connect
-- LinkedIn: (your link)
+- LinkedIn:https://www.linkedin.com/in/m-junaid7/
