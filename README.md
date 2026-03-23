@@ -15,14 +15,7 @@
 ## 🔧 Tech Stack
 - AWS | Docker | Kubernetes  
 - CI/CD | Linux | GitHub Actions  
-- Python | Bash  
-
----
-
-## 🚀 Projects
-- Kubernetes Deployment System  
-- CI/CD Pipeline using GitHub Actions  
-- AWS Infrastructure Setup  
+- Go | Bash  
 
 ---
 
