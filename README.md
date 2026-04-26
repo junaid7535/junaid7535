@@ -1,23 +1,20 @@
-# 👋 Hi, I'm Junaid
+## 🛠️ Skills
 
-🚀 Cloud & Infrastructure Engineer in progress  
+### 🧠 AI / LLM
+- Python
+- Prompt Engineering
+- LLM Frameworks: LangChain, LlamaIndex, Claude
+- Retrieval-Augmented Generation (RAG)
+- Embedding Models
+- Structured Outputs (JSON, tool/function calling)
 
----
+### 🗄️ Vector Databases
+- Pinecone (Serverless)
+- Qdrant
+- FAISS
+- ChromaDB
 
-## ☁️ About Me
-- Passionate about Cloud, DevOps & Scalable Systems  
-- Working with AWS, Docker, Kubernetes  
-- Learning Infrastructure as Code (Terraform)  
-- Exploring Open Source  
-
----
-
-## 🔧 Tech Stack
-- AWS | Docker | Kubernetes  
-- CI/CD | Linux | GitHub Actions  
-- Go | Bash  
-
----
-
-## 📫 Connect
-- LinkedIn:https://www.linkedin.com/in/m-junaid7/
+### ⚙️ Systems & Architecture
+- Model Context Protocol (MCP)
+- Agent-based Workflows (basic)
+- Memory Systems & Context Handling (learning)
