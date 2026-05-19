@@ -72,8 +72,7 @@ I enjoy combining:
 ---
 
 ### Connect With Me
-- LinkedIn: [Add Your LinkedIn]
-- Portfolio: [Add Portfolio]
-- Email: [Add Email]
+- LinkedIn: https://www.linkedin.com/in/m-junaid7/
+- Email: Zunaidkhan1492@gmail.com
 
 ```
