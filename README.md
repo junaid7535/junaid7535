@@ -1,92 +1,181 @@
 # Hi, I'm Junaid 👋
 
-🚀 Machine Learning Engineer passionate about building intelligent systems, recommendation engines, and Generative AI applications.
+📱 iOS Developer passionate about building beautiful, scalable, and user-centric applications using Swift and SwiftUI.
 
-I enjoy working at the intersection of:
-- Machine Learning
-- Generative AI & LLMs
-- Recommendation Systems
-- Backend Engineering
-- Cloud Deployment
+I enjoy creating high-quality mobile experiences with modern iOS technologies, clean architecture, and intuitive user interfaces.
 
-## Current Focus
-- Machine Learning & Deep Learning
-- Retrieval-Augmented Generation (RAG)
-- Recommendation Systems
-- LLM-powered Applications
-- FastAPI & ML APIs
-- Model Deployment on AWS
-- End-to-End AI Systems
+## 🚀 Current Focus
 
-## Tech Stack
-
-### Languages
-- Python
-- Java
-- SQL
-
-### Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-
-### Generative AI
-- LangChain
-- Hugging Face Transformers
-- Sentence Transformers
-- RAG
-- Prompt Engineering
-- Vector Search (FAISS/ChromaDB)
-
-### Backend
-- FastAPI
-- Spring Boot
+- Native iOS Development
+- Swift & SwiftUI
+- UIKit
+- MVVM Architecture
+- SwiftData & Core Data
 - REST APIs
-
-### Databases
-- MySQL
-- MongoDB
-- Redis
-
-### Cloud & DevOps
-- AWS (EC2, S3, IAM)
-- Docker
-- Git & GitHub
-- Linux
-
-## Featured Projects
-
-- 🤖 **TrackMyJobs AI** – AI-powered job platform featuring personalized job recommendations, resume-job matching, RAG-based career assistant, ATS optimization, and interview preparation.
-- 📄 **RAG Knowledge Assistant** – Context-aware question answering system using LLMs, vector search, and document retrieval.
-- ☁️ **Cloud-Deployed Applications** – Built and deployed scalable applications on AWS with REST APIs and Docker.
-
-## Currently Learning
-- Recommendation Systems
-- MLOps
-- Model Serving & Monitoring
-- Multi-Agent AI Systems
-- Advanced LLM Techniques
-- Scalable ML Infrastructure
-
-## Interests
-- Recommendation Algorithms
-- Information Retrieval
-- Natural Language Processing
-- Generative AI
-- Large Language Models
-- Production ML Systems
-
-## Goals
-- Build production-ready ML systems that impact millions of users.
-- Contribute to open-source AI projects.
-- Work on recommendation systems, search, and Generative AI.
-- Grow as a Machine Learning Engineer.
+- Async/Await
+- Performance Optimization
+- App Store Ready Applications
 
 ---
 
-### Connect With Me
-- LinkedIn: www.linkedin.com/in/m-junaid7
-- Email: Zunaidkhan1492@gmail.com
+# 💻 Tech Stack
+
+## Languages
+
+- Swift
+- Objective-C (Basic)
+- SQL
+
+## iOS Development
+
+- SwiftUI
+- UIKit
+- Combine
+- MVVM
+- SwiftData
+- Core Data
+- URLSession
+- Async/Await
+- Swift Concurrency
+- UserDefaults
+- Keychain
+- Dependency Injection
+
+## Apple Frameworks
+
+- MapKit
+- Core Location
+- AVFoundation
+- Vision
+- PDFKit
+- WidgetKit
+- ActivityKit
+- StoreKit
+- LocalAuthentication
+- PhotosUI
+- Core Image
+
+## Backend & APIs
+
+- REST APIs
+- JSON
+- Firebase
+- Supabase
+- CloudKit
+
+## Databases
+
+- SwiftData
+- Core Data
+- Firebase Firestore
+- SQLite
+
+## Tools
+
+- Xcode
+- Instruments
+- Git
+- GitHub
+- Postman
+- Figma
+- Docker (Basic)
+
+---
+
+# 📱 Featured Projects
+
+### 📌 TrackMyJobs
+
+A modern job application tracking app built with SwiftUI.
+
+**Features**
+- Dashboard & Analytics
+- Job Application Tracker
+- Interview Scheduler
+- Resume Management
+- Notifications
+- Swift Charts
+- Search & Filters
+- SwiftData Persistence
+
+**Tech**
+SwiftUI • MVVM • SwiftData • Swift Charts • Local Notifications
+
+---
+
+### 🎬 Movie Explorer
+
+A TMDB-powered movie discovery application.
+
+**Features**
+- Trending Movies
+- Search
+- Watchlist
+- Favorites
+- Pagination
+- Offline Caching
+
+**Tech**
+SwiftUI • Async/Await • URLSession • MVVM
+
+---
+
+### 💰 Expense Tracker
+
+A personal finance application.
+
+**Features**
+- Budget Management
+- Charts
+- Categories
+- Monthly Reports
+- PDF Export
+
+**Tech**
+SwiftUI • Swift Charts • SwiftData
+
+---
+
+# 🌱 Currently Learning
+
+- Clean Architecture
+- The Composable Architecture (TCA)
+- WidgetKit
+- ActivityKit
+- App Intents
+- XCTest
+- CI/CD for iOS
+- Advanced Swift Concurrency
+
+---
+
+# 🎯 Interests
+
+- iOS Development
+- SwiftUI
+- Mobile Architecture
+- Human Interface Design
+- Performance Optimization
+- Accessibility
+- Apple Ecosystem
+
+---
+
+# 🎯 Goals
+
+- Build polished, production-ready iOS applications.
+- Publish multiple apps on the App Store.
+- Contribute to open-source Swift projects.
+- Master advanced iOS architecture and performance optimization.
+- Grow as a Software Engineer specializing in Apple platforms.
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-junaid-2477863a2/
+- Email: zunaidkhan1492@gmail.com
+
+---
+
+⭐ *Always learning. Always building. Always shipping.*
