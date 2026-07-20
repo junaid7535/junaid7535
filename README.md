@@ -1,69 +1,32 @@
 # Hi, I'm Junaid 👋
 
-🚀 Backend Developer passionate about building scalable, secure, and high-performance backend systems using Node.js and TypeScript.
+🚀 Java Backend Developer passionate about building scalable and secure backend applications with Java and Spring Boot.
 
 ## 💻 Tech Stack
 
-### Languages
-- JavaScript (ES6+)
-- TypeScript
-- SQL
+**Languages:** Java, SQL
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- WebSockets
-- MVC Architecture
-- Async Programming
+**Backend:** Spring Boot, Spring MVC, Spring Security, Hibernate, REST APIs, JWT
 
-### Databases
-- MongoDB
-- PostgreSQL
-- Redis
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
-### DevOps & Tools
-- Docker
-- Git & GitHub
-- Postman
-- Firebase
-- Linux
-
----
-
-
-
-
+**Tools:** Docker, Git, GitHub, Maven, Postman, Linux
 
 ## 🌱 Currently Learning
 
-- Advanced System Design
 - Microservices
-- Event-Driven Architecture
 - Kafka
 - Kubernetes
 - AWS
-- CI/CD Pipelines
+- System Design
 
----
+## 🎯 Goal
 
+Become a Backend Software Engineer specializing in scalable Java applications.
 
-
-## 🎯 Goals
-
-- Build production-ready backend systems.
-- Master scalable system design.
-- Contribute to open-source backend projects.
-- Become a Backend Software Engineer.
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/m-junaid7/
 - Email: zunaidkhan1492@gmail.com
 
----
-
-⭐ *Always learning. Always building. Always scaling.*
+⭐ *Always learning. Always building.*
