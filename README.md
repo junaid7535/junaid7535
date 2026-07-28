@@ -1,4 +1,4 @@
-# Hi, I'm Junaid 👋
+# Hi, I'm Junaid 
 
 🚀 Java Backend Developer passionate about building scalable and secure backend applications with Java and Spring Boot.
 
