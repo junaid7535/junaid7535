@@ -12,7 +12,7 @@ Java Backend Developer passionate about building scalable and secure backend app
 
 **Tools:** Docker, Git, GitHub, Maven, Postman, Linux
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Microservices
 - Kafka
