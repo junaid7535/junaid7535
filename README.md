@@ -1,10 +1,12 @@
 # Hi, I'm Junaid
 
-Node.js Backend Developer passionate about building scalable, secure, and high-performance backend applications using JavaScript and modern web technologies.
+Full Stack Developer passionate about building scalable, secure, and high-performance backend applications using JavaScript and modern web technologies.
 
 ## 💻 Tech Stack
 
 **Languages:** JavaScript (ES6+), TypeScript, SQL, Python
+
+**Frontend:** React.js, Next.js, TailWind CSS
 
 **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
 
@@ -22,7 +24,7 @@ Node.js Backend Developer passionate about building scalable, secure, and high-p
 
 ## 🎯 Goal
 
-Become a Backend Software Engineer specializing in scalable distributed systems and high-performance Node.js applications.
+Become a Full Stack Software Engineer specializing in scalable distributed systems and high-performance Node.js applications.
 
 ## 📫 Connect
 
