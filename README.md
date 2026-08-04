@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Junaid
+# Hi, I'm Junaid
 
 **GenAI Engineer | LLMs | AI Agents | RAG | MCP**
 
@@ -32,49 +32,6 @@ Passionate about building intelligent AI applications using Large Language Model
 - Memory
 - Planning & Reasoning
 
-### 💻 Backend
-- Python
-- FastAPI
-- Node.js
-- REST APIs
-
-### 🗄️ Databases
-- PostgreSQL
-- MongoDB
-- Redis
-
-### ⚙️ Tools
-- Docker
-- Git
-- GitHub
-- Linux
-- Postman
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 AI Research Assistant
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search
-- Vector Database
-- LLM-powered Question Answering
-
-## 🤖 AI Agent
-- Tool Calling
-- Multi-step Reasoning
-- Autonomous Workflows
-
-## 📄 Document Chat
-- PDF Chat
-- Context Retrieval
-- Conversational AI
-
-## ⚡ AI Automation
-- Workflow Automation
-- LLM Integration
-- API Orchestration
-
 ---
 
 ## 🌱 Currently Learning
@@ -96,7 +53,6 @@ To build scalable, production-ready AI systems using LLMs, AI Agents, RAG, and M
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/m-junaid7/
 - Email: zunaidkhan1492@gmail.com
 
 ---
