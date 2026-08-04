@@ -1,34 +1,104 @@
-# Hi, I'm Junaid
+# 👋 Hi, I'm Junaid
 
-Full Stack Developer passionate about building scalable, secure, and high-performance backend applications using JavaScript and modern web technologies.
+**GenAI Engineer | LLMs | AI Agents | RAG | MCP**
 
-## 💻 Tech Stack
+Passionate about building intelligent AI applications using Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP). I enjoy developing production-ready AI systems that solve real-world problems through automation, reasoning, and intelligent workflows.
 
-**Languages:** JavaScript (ES6+), TypeScript, SQL, Python
+---
 
-**Frontend:** React.js, Next.js, TailWind CSS
+## 🚀 Tech Stack
 
-**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+### 🤖 Generative AI
+- OpenAI GPT
+- Google Gemini
+- LangChain
+- LangGraph
+- MCP (Model Context Protocol)
+- Prompt Engineering
+- Function Calling
+- Tool Calling
 
-**Databases:** MongoDB, PostgreSQL, MySQL, Redis
+### 🧠 RAG
+- Vector Databases
+- Embeddings
+- Semantic Search
+- Document Retrieval
+- Context-Aware Generation
 
-**Tools:** Docker, Git, GitHub, Postman, Linux
+### 🤖 AI Agents
+- Multi-Agent Systems
+- Agent Workflows
+- AI Automation
+- Memory
+- Planning & Reasoning
 
-## 📚 Currently Learning
+### 💻 Backend
+- Python
+- FastAPI
+- Node.js
+- REST APIs
 
-- System Design
-- Microservices
-- Kafka
-- Kubernetes
-- AWS
+### 🗄️ Databases
+- PostgreSQL
+- MongoDB
+- Redis
+
+### ⚙️ Tools
+- Docker
+- Git
+- GitHub
+- Linux
+- Postman
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AI Research Assistant
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Vector Database
+- LLM-powered Question Answering
+
+## 🤖 AI Agent
+- Tool Calling
+- Multi-step Reasoning
+- Autonomous Workflows
+
+## 📄 Document Chat
+- PDF Chat
+- Context Retrieval
+- Conversational AI
+
+## ⚡ AI Automation
+- Workflow Automation
+- LLM Integration
+- API Orchestration
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AI Agents
+- MCP (Model Context Protocol)
+- Agentic RAG
+- LangGraph
+- AI Evaluation
+- AWS Deployment
+
+---
 
 ## 🎯 Goal
 
-Become a Full Stack Software Engineer specializing in scalable distributed systems and high-performance Node.js applications.
+To build scalable, production-ready AI systems using LLMs, AI Agents, RAG, and MCP that solve real-world problems.
+
+---
 
 ## 📫 Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/m-junaid7/
-- **Email:** zunaidkhan1492@gmail.com
+- LinkedIn: https://www.linkedin.com/in/m-junaid7/
+- Email: zunaidkhan1492@gmail.com
 
-⭐ **Always learning. Always building.**
+---
+
+⭐ **Building AI. Shipping Projects. Learning Every Day.**
