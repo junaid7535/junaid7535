@@ -1,60 +1,74 @@
 # Hi, I'm Junaid
 
-**GenAI Engineer | LLMs | AI Agents | RAG | MCP**
+**Backend Engineer | Node.js | TypeScript | REST APIs | Distributed Systems**
 
-Passionate about building intelligent AI applications using Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP). I enjoy developing production-ready AI systems that solve real-world problems through automation, reasoning, and intelligent workflows.
+Passionate about building scalable, reliable, and production-ready backend systems. I enjoy designing robust APIs, architecting backend services, optimizing databases, and building systems that are secure, performant, and maintainable.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🤖 Generative AI
-- OpenAI GPT
-- Google Gemini
-- LangChain
-- LangGraph
-- MCP (Model Context Protocol)
-- Prompt Engineering
-- Function Calling
-- Tool Calling
+### ⚙️ Backend Engineering
 
-### 🧠 RAG
-- Vector Databases
-- Embeddings
-- Semantic Search
-- Document Retrieval
-- Context-Aware Generation
+- Node.js
+- TypeScript
+- Express.js
+- RESTful APIs
+- API Design & Architecture
+- MVC Architecture
+- Microservices
+- Event-Driven Architecture
+- WebSockets
+- Authentication & Authorization
 
-### 🤖 AI Agents
-- Multi-Agent Systems
-- Agent Workflows
-- AI Automation
-- Memory
-- Planning & Reasoning
+### 🗄️ Databases & Caching
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Mongoose
+- Database Design
+- Indexing & Query Optimization
+- Transactions
+- Caching Strategies
+
+
+### 🔐 Security & Performance
+
+- JWT
+- OAuth 2.0
+- Role-Based Access Control (RBAC)
+- API Security
+- Input Validation
+- Rate Limiting
+- Performance Optimization
+- Scalability
+- Fault Tolerance
+- OWASP Best Practices
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced AI Agents
-- MCP (Model Context Protocol)
-- Agentic RAG
-- LangGraph
-- AI Evaluation
-- AWS Deployment
+- Advanced Backend Architecture
+- Distributed Systems
+- Microservices Architecture
+- Event-Driven Systems
+- System Design
+- AWS & Cloud Infrastructure
+- Database Performance Optimization
+- Scalable API Design
+- Observability & Production Monitoring
 
----
 
-## 🎯 Goal
-
-To build scalable, production-ready AI systems using LLMs, AI Agents, RAG, and MCP that solve real-world problems.
 
 ---
 
 ## 📫 Connect
 
-- Email: zunaidkhan1492@gmail.com
+- Email: [zunaidkhan1492@gmail.com](mailto:zunaidkhan1492@gmail.com)
 
 ---
 
-⭐ **Building AI. Shipping Projects. Learning Every Day.**
+⭐ **Building Backend Systems. Designing for Scale. Shipping Production-Ready Software.**
