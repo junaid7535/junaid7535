@@ -1,18 +1,9 @@
 # Hi, I'm Junaid 👋
 
-**Agentic AI Engineer | Backend Engineer | Node.js | TypeScript | LLMs | AI Agents**
+**Backend Engineer | Node.js | TypeScript | LLMs | AI Agents**
 
 Building intelligent, scalable, and production-ready **AI systems** by combining agentic AI with strong backend engineering.
 
-## 🤖 Agentic AI
-
-* AI Agents & Multi-Agent Systems
-* LLM Applications & Tool Calling
-* RAG & Vector Search
-* Prompt & Context Engineering
-* AI Workflows & Orchestration
-* Agent Memory & State Management
-* MCP & AI Integrations
 
 ## ⚙️ Backend
 
