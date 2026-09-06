@@ -1,37 +1,42 @@
-## AI Engineer | Backend · LLMs · Agentic AI
+## iOS Developer | Swift · UIKit · iOS Development
 
-Building intelligent, scalable, and production-ready **AI systems** by combining strong backend engineering with modern AI and agentic architectures.
+Building native iOS applications with **Swift and UIKit**, focusing on clean UI, scalable architecture, and real-world functionality.
 
-### 🤖 AI Engineering
+### 📱 iOS Development
 
-* LLMs & Generative AI
-* AI Agents & Agentic Workflows
-* Multi-Agent Systems
-* RAG & LLM Applications
-* MCP & Tool-Calling
-* LLM Evaluation & AI Security
-* AI System Design
+* Swift
+* UIKit & Programmatic UI
+* Auto Layout
+* iOS Application Development
+* MVC / MVVM Architecture
+* REST API Integration
+* JSON & Networking
+* Async/Await & Concurrency
 
-### ⚙️ Backend Engineering
+### 💾 Data & Apple Technologies
 
-* Node.js & TypeScript
-* REST APIs & Microservices
-* PostgreSQL, MongoDB & Redis
-* Distributed & Event-Driven Systems
-* Authentication & API Security
-* Performance & Scalability
+* Core Data
+* CloudKit & iCloud Sync
+* Local Data Persistence
+* CSV Data Export
+* Apple Frameworks
 
-### ☁️ Cloud & Production
+### 🛠️ Development Tools
 
-* AWS
-* Docker & CI/CD
-* Observability & Monitoring
-* Fault Tolerance
-* Production AI Infrastructure
+* Xcode
+* Git & GitHub
+* Debugging & Error Handling
+* Unit Testing with XCTest
+
+### 🚀 Project Focus
+
+**TrackMyJobs — iOS Job Application Tracker**
+
+A native iOS application built with **Swift, UIKit, Core Data, CloudKit, and Auto Layout** for managing and analyzing job applications.
 
 ### 🌱 Currently Learning
 
-**Advanced Agentic AI · Multi-Agent Architecture · LLM Systems · MCP · Distributed AI · AI Infrastructure · System Design · Cloud Architecture**
+**Advanced Swift · iOS Architecture · Swift Concurrency · Performance Optimization · Testing · System Design**
 
 ### 📫 Connect
 
@@ -39,4 +44,4 @@ Building intelligent, scalable, and production-ready **AI systems** by combining
 
 ---
 
-⭐ **Building Agentic AI. Engineering Intelligent Systems. Shipping for Scale.**
+⭐ **Building Native iOS Apps. Writing Clean Code. Solving Real-World Problems.**
