@@ -28,10 +28,6 @@ Building native iOS applications with **Swift and UIKit**, focusing on clean UI,
 * Debugging & Error Handling
 * Unit Testing with XCTest
 
-### 🚀 Project Focus
-
-**TrackMyJobs — iOS Job Application Tracker**
-
 A native iOS application built with **Swift, UIKit, Core Data, CloudKit, and Auto Layout** for managing and analyzing job applications.
 
 ### 🌱 Currently Learning
