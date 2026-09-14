@@ -1,38 +1,52 @@
-## iOS Developer | Swift · UIKit · iOS Development
+## 🟢 Node.js Backend Developer | JavaScript · TypeScript · REST APIs
 
-Building native iOS applications with **Swift and UIKit**, focusing on clean UI, scalable architecture, and real-world functionality.
+Building scalable and reliable backend applications with **Node.js**, focusing on clean architecture, secure APIs, database design, and real-world functionality.
 
-### 📱 iOS Development
+### ⚙️ Backend Development
 
-* Swift
-* UIKit & Programmatic UI
-* Auto Layout
-* iOS Application Development
-* MVC / MVVM Architecture
-* REST API Integration
-* JSON & Networking
+* Node.js
+* JavaScript & TypeScript
+* Express.js
+* REST API Development
+* API Design & Integration
+* Authentication & Authorization
 * Async/Await & Concurrency
+* Error Handling & Validation
+* MVC / Clean Architecture
 
-### 💾 Data & Apple Technologies
+### 🗄️ Databases & Data
 
-* Core Data
-* CloudKit & iCloud Sync
-* Local Data Persistence
-* CSV Data Export
-* Apple Frameworks
+* PostgreSQL
+* MySQL
+* MongoDB
+* Database Design & Optimization
+* SQL & Queries
+* ORM / ODM
+* Data Validation & Persistence
+* Redis & Caching
+
+### 🔐 Backend & Infrastructure
+
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Secure API Development
+* Environment Configuration
+* Logging & Monitoring
+* File Uploads & Processing
+* Third-Party API Integration
+* Cloud & Deployment
 
 ### 🛠️ Development Tools
 
-* Xcode
+* VS Code
 * Git & GitHub
+* Postman
+* npm
+* Docker
 * Debugging & Error Handling
-* Unit Testing with XCTest
+* Unit & Integration Testing
 
-A native iOS application built with **Swift, UIKit, Core Data, CloudKit, and Auto Layout** for managing and analyzing job applications.
 
-### 🌱 Currently Learning
-
-**Advanced Swift · iOS Architecture · Swift Concurrency · Performance Optimization · Testing · System Design**
 
 ### 📫 Connect
 
@@ -40,4 +54,4 @@ A native iOS application built with **Swift, UIKit, Core Data, CloudKit, and Aut
 
 ---
 
-⭐ **Building Native iOS Apps. Writing Clean Code. Solving Real-World Problems.**
+⭐ **Building Scalable Backends. Writing Clean Code. Solving Real-World Problems.**
