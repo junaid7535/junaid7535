@@ -1,4 +1,4 @@
-## 🟢 Node.js Backend Developer | JavaScript · TypeScript · REST APIs
+## Node.js Backend Developer | JavaScript · TypeScript · REST APIs
 
 Building scalable and reliable backend applications with **Node.js**, focusing on clean architecture, secure APIs, database design, and real-world functionality.
 
